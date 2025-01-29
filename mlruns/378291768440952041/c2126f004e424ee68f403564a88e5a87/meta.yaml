@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/378291768440952041/c2126f004e424ee68f403564a88e5a87/artifacts
+end_time: 1738175304340
+entry_point_name: ''
+experiment_id: '378291768440952041'
+lifecycle_stage: active
+run_id: c2126f004e424ee68f403564a88e5a87
+run_name: clean-bee-890
+run_uuid: c2126f004e424ee68f403564a88e5a87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738175298471
+status: 3
+tags: []
+user_id: Shiwang Upadhyay

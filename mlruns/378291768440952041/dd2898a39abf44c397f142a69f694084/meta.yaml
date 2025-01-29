@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/378291768440952041/dd2898a39abf44c397f142a69f694084/artifacts
+end_time: 1738177184863
+entry_point_name: ''
+experiment_id: '378291768440952041'
+lifecycle_stage: active
+run_id: dd2898a39abf44c397f142a69f694084
+run_name: awesome-colt-760
+run_uuid: dd2898a39abf44c397f142a69f694084
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738177179768
+status: 3
+tags: []
+user_id: Shiwang Upadhyay

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5bddf8eecd8b45a89cebd4e06b685388/artifacts
+end_time: 1738135960184
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5bddf8eecd8b45a89cebd4e06b685388
+run_name: likeable-cub-139
+run_uuid: 5bddf8eecd8b45a89cebd4e06b685388
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738135960122
+status: 3
+tags: []
+user_id: Shiwang Upadhyay

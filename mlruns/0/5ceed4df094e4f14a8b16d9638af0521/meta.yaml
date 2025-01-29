@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5ceed4df094e4f14a8b16d9638af0521/artifacts
+end_time: 1738137108447
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ceed4df094e4f14a8b16d9638af0521
+run_name: enthused-grub-881
+run_uuid: 5ceed4df094e4f14a8b16d9638af0521
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738137107823
+status: 3
+tags: []
+user_id: Shiwang Upadhyay

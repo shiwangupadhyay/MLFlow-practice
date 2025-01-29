@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/378291768440952041/a6b408b15c70499587d5f90539b3264c/artifacts
+end_time: 1738137233637
+entry_point_name: ''
+experiment_id: '378291768440952041'
+lifecycle_stage: active
+run_id: a6b408b15c70499587d5f90539b3264c
+run_name: smiling-flea-363
+run_uuid: a6b408b15c70499587d5f90539b3264c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738137233078
+status: 3
+tags: []
+user_id: Shiwang Upadhyay
