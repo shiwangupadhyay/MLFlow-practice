@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1738179267838
+current_stage: Production
+description: ''
+last_updated_timestamp: 1738179352972
+name: Shiwang model 1
+run_id: 7a2275cf92844e43bf486b6d3b58fb78
+run_link: ''
+source: file:///C:/MLOps%20practice/MLFlow-practice/mlruns/838623365378551045/7a2275cf92844e43bf486b6d3b58fb78/artifacts/random_forest
+status: READY
+status_message: null
+storage_location: file:///C:/MLOps%20practice/MLFlow-practice/mlruns/838623365378551045/7a2275cf92844e43bf486b6d3b58fb78/artifacts/random_forest
+user_id: null
+version: 2

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps%20practice/MLFlow-practice/mlruns/838623365378551045/8561ccda70244f5fbb008d74987d0654/artifacts
+end_time: 1738178378549
+entry_point_name: ''
+experiment_id: '838623365378551045'
+lifecycle_stage: active
+run_id: 8561ccda70244f5fbb008d74987d0654
+run_name: trusting-dog-642
+run_uuid: 8561ccda70244f5fbb008d74987d0654
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738178378522
+status: 3
+tags: []
+user_id: Shiwang Upadhyay

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps%20practice/MLFlow-practice/mlruns/838623365378551045/145c4958946c4a67ab0dac17ab82c8d8/artifacts
+end_time: 1738178378678
+entry_point_name: ''
+experiment_id: '838623365378551045'
+lifecycle_stage: active
+run_id: 145c4958946c4a67ab0dac17ab82c8d8
+run_name: loud-fish-601
+run_uuid: 145c4958946c4a67ab0dac17ab82c8d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738178378656
+status: 3
+tags: []
+user_id: Shiwang Upadhyay

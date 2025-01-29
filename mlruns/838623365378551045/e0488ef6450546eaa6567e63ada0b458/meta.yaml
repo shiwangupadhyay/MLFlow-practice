@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps%20practice/MLFlow-practice/mlruns/838623365378551045/e0488ef6450546eaa6567e63ada0b458/artifacts
+end_time: 1738178383467
+entry_point_name: ''
+experiment_id: '838623365378551045'
+lifecycle_stage: active
+run_id: e0488ef6450546eaa6567e63ada0b458
+run_name: suave-finch-998
+run_uuid: e0488ef6450546eaa6567e63ada0b458
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738178374361
+status: 3
+tags: []
+user_id: Shiwang Upadhyay

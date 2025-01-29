@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps%20practice/MLFlow-practice/mlruns/838623365378551045/d1fb0a52820948cf940e0f42b998bf12/artifacts
+end_time: 1738178378447
+entry_point_name: ''
+experiment_id: '838623365378551045'
+lifecycle_stage: active
+run_id: d1fb0a52820948cf940e0f42b998bf12
+run_name: delicate-hen-38
+run_uuid: d1fb0a52820948cf940e0f42b998bf12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738178378425
+status: 3
+tags: []
+user_id: Shiwang Upadhyay

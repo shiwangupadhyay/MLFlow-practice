@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps%20practice/MLFlow-practice/mlruns/838623365378551045/aa82a484d12442ca85026a428630f3b2/artifacts
+end_time: 1738178378320
+entry_point_name: ''
+experiment_id: '838623365378551045'
+lifecycle_stage: active
+run_id: aa82a484d12442ca85026a428630f3b2
+run_name: crawling-bat-569
+run_uuid: aa82a484d12442ca85026a428630f3b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738178378296
+status: 3
+tags: []
+user_id: Shiwang Upadhyay

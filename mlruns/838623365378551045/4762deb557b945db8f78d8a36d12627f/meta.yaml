@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps%20practice/MLFlow-practice/mlruns/838623365378551045/4762deb557b945db8f78d8a36d12627f/artifacts
+end_time: 1738178378416
+entry_point_name: ''
+experiment_id: '838623365378551045'
+lifecycle_stage: active
+run_id: 4762deb557b945db8f78d8a36d12627f
+run_name: bald-fish-209
+run_uuid: 4762deb557b945db8f78d8a36d12627f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738178378391
+status: 3
+tags: []
+user_id: Shiwang Upadhyay

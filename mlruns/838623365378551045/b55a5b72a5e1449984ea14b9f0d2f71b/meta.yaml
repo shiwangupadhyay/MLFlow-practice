@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps%20practice/MLFlow-practice/mlruns/838623365378551045/b55a5b72a5e1449984ea14b9f0d2f71b/artifacts
+end_time: 1738178378584
+entry_point_name: ''
+experiment_id: '838623365378551045'
+lifecycle_stage: active
+run_id: b55a5b72a5e1449984ea14b9f0d2f71b
+run_name: chill-cub-166
+run_uuid: b55a5b72a5e1449984ea14b9f0d2f71b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738178378558
+status: 3
+tags: []
+user_id: Shiwang Upadhyay

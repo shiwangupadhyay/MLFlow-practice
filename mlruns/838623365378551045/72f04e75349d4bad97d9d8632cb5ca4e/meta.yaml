@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps%20practice/MLFlow-practice/mlruns/838623365378551045/72f04e75349d4bad97d9d8632cb5ca4e/artifacts
+end_time: 1738178378513
+entry_point_name: ''
+experiment_id: '838623365378551045'
+lifecycle_stage: active
+run_id: 72f04e75349d4bad97d9d8632cb5ca4e
+run_name: adaptable-goose-472
+run_uuid: 72f04e75349d4bad97d9d8632cb5ca4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738178378488
+status: 3
+tags: []
+user_id: Shiwang Upadhyay
